@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1604401013 source:c:\users\vlad\documents\firts_personage\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<math.h>
+	"personage_elf.h"
+	"personage_orc.h"
+	"personage_wizard.h"
+	"game_task.h"
+	"music.h"
+	<time.h>
+
+1604395293 c:\users\vlad\documents\firts_personage\personage_elf.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<math.h>
+	<time.h>
+	"game_task.h"
+	"personage_elf.h"
+	"personage_orc.h"
+	"personage_wizard.h"
+
+1604401921 c:\users\vlad\documents\firts_personage\game_task.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	<time.h>
+	"music.h"
+
+1604395287 c:\users\vlad\documents\firts_personage\personage_orc.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<math.h>
+	"personage_elf.h"
+	"personage_orc.h"
+	"personage_wizard.h"
+	"game_task.h"
+
+1604395282 c:\users\vlad\documents\firts_personage\personage_wizard.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<math.h>
+	"personage_elf.h"
+	"personage_orc.h"
+	"personage_wizard.h"
+	"game_task.h"
+
+1604338440 source:c:\users\vlad\documents\firts_personage\game_save_read.c
+	<stdio.h>
+	<stdlib.h>
+
+1604401314 c:\users\vlad\documents\firts_personage\music.h
+

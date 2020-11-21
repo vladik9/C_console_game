@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1604072907 source:c:\users\vlad\documents\firts_personage\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<math.h>
+	"personage_elf.h"
+	"personage_orc.h"
+	"personage_wizard.h"
+	"game_task.h"
+
+1604065254 c:\users\vlad\documents\firts_personage\personage_elf.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<math.h>
+	<time.h>
+	"game_task.h"
+	"personage_elf.h"
+	"personage_orc.h"
+	"personage_wizard.h"
+
+1604065259 c:\users\vlad\documents\firts_personage\personage_orc.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<math.h>
+	"personage_elf.h"
+	"personage_orc.h"
+	"personage_wizard.h"
+	"game_task.h"
+
+1604065371 c:\users\vlad\documents\firts_personage\personage_wizard.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<math.h>
+	"personage_elf.h"
+	"personage_orc.h"
+	"personage_wizard.h"
+	"game_task.h"
+
+1604072888 c:\users\vlad\documents\firts_personage\game_task.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	<time.h>
+
